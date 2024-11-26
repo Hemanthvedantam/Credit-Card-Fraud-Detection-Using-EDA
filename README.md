@@ -24,7 +24,13 @@ This project, completed during my Geeksmetrics Internship, focuses on detecting 
 
 
 **data/ :** Contains datasets used in the project.
+
+
 **notebooks/ :** Jupyter notebooks with detailed EDA and ML implementation.
+
+
 **models/ :** Logistic Regression model for fraud detection.
+
+
 **visualizations/ :** Graphs and Scatterplots generated during EDA.
 
